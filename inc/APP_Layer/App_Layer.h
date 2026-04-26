@@ -1,7 +1,7 @@
 #ifndef APP_LAYER_H
 #define APP_LAYER_H
 
-#include "Main.h"
+#include "main.h"
 
 void App_Delay_Init(void);
 void App_Delay_Ms(uint32_t ms);

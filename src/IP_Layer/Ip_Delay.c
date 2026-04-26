@@ -1,3 +1,4 @@
+#include "stm32f10x.h"
 #include "Ip_Delay.h"
 
 Delay_Struct_t delay;
